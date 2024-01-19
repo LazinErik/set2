@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set2ex12\set2ex12\obj\Debug\set2ex12.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set2ex12\set2ex12\obj\Debug\set2ex12.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set2ex12\set2ex12\bin\Debug\set2ex12.exe.config
+D:\Facultate\Programare\set2ex12\set2ex12\bin\Debug\set2ex12.exe
+D:\Facultate\Programare\set2ex12\set2ex12\bin\Debug\set2ex12.pdb
+D:\Facultate\Programare\set2ex12\set2ex12\obj\Debug\set2ex12.exe
+D:\Facultate\Programare\set2ex12\set2ex12\obj\Debug\set2ex12.pdb

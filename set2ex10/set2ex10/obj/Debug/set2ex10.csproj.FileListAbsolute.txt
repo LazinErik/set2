@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set2ex10\set2ex10\bin\Debug\set2ex10.exe.config
+D:\Facultate\Programare\set2ex10\set2ex10\bin\Debug\set2ex10.exe
+D:\Facultate\Programare\set2ex10\set2ex10\bin\Debug\set2ex10.pdb
+D:\Facultate\Programare\set2ex10\set2ex10\obj\Debug\set2ex10.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set2ex10\set2ex10\obj\Debug\set2ex10.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set2ex10\set2ex10\obj\Debug\set2ex10.exe
+D:\Facultate\Programare\set2ex10\set2ex10\obj\Debug\set2ex10.pdb
